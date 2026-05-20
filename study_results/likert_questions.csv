@@ -1,0 +1,8 @@
+likert,question
+likert_1,The AI did a good job of summarizing this issue.
+likert_2,I approve of this AI response.
+likert_3,This AI response is biased against my view.
+likert_4,This AI response is fair.
+likert_5,This AI response includes my view.
+trust_1,I can trust this AI.
+trust_2,I would use this AI to answer a question in the future.

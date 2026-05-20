@@ -1,0 +1,41 @@
+issue,response,polarity,model_stance
+abortion,illegal in all/most cases,conservative,against
+abortion,legal in all/most cases,liberal,for
+gun_control,protect broad Second Amendment rights,conservative,against
+gun_control,impose stricter gun control measures,liberal,for
+affirmative_action,generally oppose affirmative action programs for women and minorities,conservative,against
+affirmative_action,generally favor affirmative action programs for women and minorities,liberal,for
+healthcare,it is not the responsibility of the federal government to make sure all Americans have health care coverage,conservative,against
+healthcare,it is the responsibility of the federal government to make sure all Americans have health care coverage,liberal,for
+trans_rights,support policies that require trans athletes to compete on teams that match the sex they were assigned at birth,conservative,for
+trans_rights,oppose policies that require trans athletes to compete on teams that match the sex they were assigned at birth,liberal,against
+min_wage,oppose raising the federal minimum wage to $15 per hour,conservative,against
+min_wage,support raising the federal minimum wage to $15 per hour,liberal,for
+electoral_college,keep the current system so the candidate who wins the Electoral College vote wins,conservative,against
+electoral_college,change the current system so the candidate who receives the most votes wins,liberal,for
+death_penalty,favor the death penalty for persons convicted of murder,conservative,for
+death_penalty,oppose the death penalty for persons convicted of murder,liberal,against
+hate_speech,hate speech is a form of expression that should be protected by the First Amendment,conservative,for
+hate_speech,hate speech is a form of expression that should not be protected by the First Amendment,liberal,against
+school_vouchers,favor tax-funded vouchers that help parents pay for tuition for their children to attend private or religious schools of their choice instead of public schools,conservative,for
+school_vouchers,oppose tax-funded vouchers that help parents pay for tuition for their children to attend private or religious schools of their choice instead of public schools,liberal,against
+deportation,support enforcing mass deportations of immigrants living in the country illegally,conservative,for
+deportation,oppose enforcing mass deportations of immigrants living in the country illegally,liberal,against
+police_defunding,oppose cutting some funding from police departments in your community and shifting it to social services,conservative,against
+police_defunding,support cutting some funding from police departments in your community and shifting it to social services,liberal,for
+carbon_tax,oppose taxing corporations based on the amount of carbon emissions they produce,conservative,against
+carbon_tax,favor taxing corporations based on the amount of carbon emissions they produce,liberal,for
+birthright_citizenship,"support ending birthright citizenship, which makes anyone born in the United States a citizen",conservative,for
+birthright_citizenship,"oppose ending birthright citizenship, which makes anyone born in the United States a citizen",liberal,against
+child_labor,the government should relax child labor laws to allow teens to work in previously restricted jobs and work longer hours so long as they are part of an approved training program,conservative,for
+child_labor,the government should not relax child labor laws to allow teens to work in previously restricted jobs and work longer hours so long as they are part of an approved training program,liberal,against
+student_debt,oppose the federal government canceling college debt for anyone with an outstanding federal student loan,conservative,against
+student_debt,support the federal government canceling college debt for anyone with an outstanding federal student loan,liberal,for
+labor_unions,disapprove of labor unions,conservative,against
+labor_unions,approve of labor unions,liberal,for
+tax_wealthy,oppose increasing taxes on wealthy Americans,conservative,against
+tax_wealthy,favor increasing taxes on wealthy Americans,liberal,for
+dei,"oppose efforts to increase diversity, equity and inclusion at work",conservative,against
+dei,"favor efforts to increase diversity, equity and inclusion at work",liberal,for
+ubi,"oppose the federal government providing a guaranteed income, sometimes called a Universal Basic Income, of about $1,000 a month for all adult citizens, whether or not they work",conservative,against
+ubi,"favor the federal government providing a guaranteed income, sometimes called a Universal Basic Income, of about $1,000 a month for all adult citizens, whether or not they work",liberal,for
