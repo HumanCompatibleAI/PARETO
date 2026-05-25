@@ -16,6 +16,6 @@ A Large-Scale Human Evaluation of AI Responses*
 - `stance_dict.csv`: stance response text, polarity, and model stance labels.
 - `likert_questions.csv`: text of survey questions asked
 - `likert-responses.csv`: what each participant answered for the four AI responses shown, keyed by question and participant ID
-- 'free_text_responses.csv': participant qualitative feedback on each response, keyed by question and participant ID
+- `free_text_responses.csv`: participant qualitative feedback on each response, keyed by question and participant ID
 - `participant_demographics.csv`: keyed on participant ID
 
