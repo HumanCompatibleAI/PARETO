@@ -19,3 +19,4 @@ A Large-Scale Human Evaluation of AI Responses*
 - `free_text_responses.csv`: participant qualitative feedback on each response, keyed by question and participant ID
 - `participant_demographics.csv`: keyed on participant ID
 
+Note: To preserve privacy, each Prolific ID has been hashed into a new unique participant ID that is consistent across files.
