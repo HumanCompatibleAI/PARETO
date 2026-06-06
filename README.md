@@ -1,6 +1,7 @@
 # PARETO
 
-This is the PARETO data set which is described in the paper *Political Neutrality as Balanced Approval: A Large-Scale Human Evaluation of AI Responses*
+This is the PARETO data set which is described in the paper [Political Neutrality as Balanced Approval: A Large-Scale Human Evaluation of AI Responses](https://arxiv.org/abs/2605.28911)
+
 
 ## Contents
 - `analysis/`: code to reproduce the figures in the paper
