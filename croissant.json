@@ -48,13 +48,13 @@
     "prov": "http://www.w3.org/ns/prov#"
   },
   "@type": "Dataset",
-  "name": "neurips_submission_data",
-  "alternateName": "NeurIPS Submission Data",
+  "name": "PARETO: Political Neutrality as Balanced Approval",
+  "alternateName": "politically_neutral_ai_dataset",
   "description": "Model responses, rendered answer text, study metadata, and PNG stimuli.",
-  "citation": "NeurIPS submission data assembled from the chang_neutral workspace.",
+  "citeAs": "@misc{stray2026politicalneutrality, title={Political Neutrality as Balanced Approval: A Large-Scale Human Evaluation of {AI} Responses}, author={Jonathan Stray and David Zhai Yang and Steven Luo and Miu Nicole Takagi and Serina Chang}, year={2026}, eprint={2605.28911}, archivePrefix={arXiv}, primaryClass={cs.CY}, url={https://arxiv.org/abs/2605.28911}}",
   "datePublished": "2026-05-06",
   "version": "1.0.0",
-  "license": "TODO",
+  "license": "http://creativecommons.org/licenses/by/4.0",
   "distribution": [
     {
       "@type": "FileObject",
@@ -13147,5 +13147,5 @@
       ]
     }
   ],
-  "url": "https://anonymous.4open.science/r/politically-neutral-ai-dataset-E55F"
+  "url": "https://github.com/HumanCompatibleAI/PARETO"
 }
