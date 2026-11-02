@@ -2,6 +2,7 @@
   "@context": {
     "@language": "en",
     "@vocab": "https://schema.org/",
+    "FileObject": "cr:FileObject",
     "citeAs": "cr:citeAs",
     "column": "cr:column",
     "conformsTo": "dct:conformsTo",
@@ -48,6 +49,7 @@
     "prov": "http://www.w3.org/ns/prov#"
   },
   "@type": "Dataset",
+  "conformsTo": "http://mlcommons.org/croissant/1.0",
   "name": "PARETO: Political Neutrality as Balanced Approval",
   "alternateName": "politically_neutral_ai_dataset",
   "description": "Model responses, rendered answer text, study metadata, and PNG stimuli.",
@@ -13140,7 +13142,8 @@
       "prov:label": "Reddit",
       "sc:license": "NOASSERTION",
       "prov:wasAttributedTo": {
-        "@id": "https://www.reddit.com",
+        "@id": "reddit_organization",
+        "@type": "prov:Agent",
         "prov:label": "Reddit"
       }
     }
